@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+
+
+
+.paragraph-gallery{
+
+    margin-top: 20vw;
+    margin-left: -9.5vw;
+    font-size: 1.3vw;
+    font-family: sans-serif;
+    color: #000;
+    font-weight: lighter;
+    letter-spacing: 2pt;
+    line-height: 1.8;
+}
+
+.paragraph-heading{
+    float: left;
+    font-size: 5vw;
+    font-family: header;
+    color: #00ABE4;
+    font-weight: bolder;
+    margin-bottom: 20px;
+    margin-left: -11vw;
+  }
+
+#gallery-body-image{
+
+    margin-top: 2.5vw;
+    margin-left: 17.5vw;
+
+}
+
+  
+#gallery-body-image img{
+
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+  
+  @keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }    
+  }
+
+
+ #red{
+    color: red;
+ }

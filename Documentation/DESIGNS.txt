@@ -1,0 +1,13 @@
+Font Styles to use:
+
+Headings - Brandon Grotesque
+Paragraph - Open Sans
+
+
+
+Color Combination:
+
+Heading - #00ABE4
+Paragraphs - #E9F1FA
+Background - white
+

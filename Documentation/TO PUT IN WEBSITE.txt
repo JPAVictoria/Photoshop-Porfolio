@@ -1,0 +1,38 @@
+What will you see in the Website?
+
+<!MAIN PAGE>
+
+HEADER AREA (NAV BAR):
+
+About
+Projects
+
+
+<BODY>
+
+Short Description
+Picture
+
+<FOOTER> 
+
+(SOCIALS):
+
+LinkedIn
+Gmail
+Github
+
+<----------------->
+
+<!PROJECTS>
+
+Image
+Caption
+
+<----------------->
+
+<!About>
+
+My Info
+Teacher Info
+Subject Info
+

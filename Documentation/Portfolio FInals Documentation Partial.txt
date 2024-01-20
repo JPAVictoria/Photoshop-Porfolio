@@ -1,0 +1,24 @@
+What will you see in the Website?
+
+<!MAIN PAGE>
+
+HEADER AREA (NAV BAR):
+
+About
+Projects
+
+
+<BODY>
+
+Short Description
+Picture
+
+<FOOTER> 
+
+(SOCIALS):
+
+Discord
+Gmail
+Github
+
+
